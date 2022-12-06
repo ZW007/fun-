@@ -1,0 +1,9 @@
+Monitor forever process so it runs forever
+
+./forever 1 100
+./forever 1 200
+./forever 1 300 
+./monitor
+ps
+kill any_forever_process you want. 
+ps 
